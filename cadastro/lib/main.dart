@@ -5,5 +5,5 @@ void main() => runApp(
   new MaterialApp(
     title:"Cadastro",
     home: new Cadastro(),
-  );
-)
+  )
+);
